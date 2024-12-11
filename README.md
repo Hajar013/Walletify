@@ -85,7 +85,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ahmadhamarsheh/Walletify.git
+   git clone https://github.com/Hajar013/Walletify.git
    cd walletify/Walletify
 	 ```
 2. **Install dependencies:**
